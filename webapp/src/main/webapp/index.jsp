@@ -40,7 +40,7 @@
 <body>
 
   <!-- Logo -->
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" class="logo mb-4" alt="Company Logo" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJibzB5b3N3cW56emx1d3hoYzJtdTd0c2N2eHBycTkwMHZvNm5lMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XxcOCzT9kBsc6NQfKw/giphy.gif" class="logo mb-4" alt="Company Logo" />
 
   <!-- Welcome Message -->
   <h1 class="welcome text-primary fw-bold">Hello, Welcome Shishir Mohanty !!!</h1>
